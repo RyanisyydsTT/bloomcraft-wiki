@@ -3,4 +3,5 @@ site_url: https://wiki.wecraft.lol
 theme:
   name: material
   font:
+    text: Roboto
     code: Roboto Mono
