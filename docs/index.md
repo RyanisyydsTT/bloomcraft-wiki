@@ -8,4 +8,4 @@ By the way, remember to join our Discord! [Click ME](https://dsc.gg/bloomcraft)
 - Version: ``Java 1.21.1``
 
 ## Contributing
-- Feel free to fork and send PR @ [Github Repo](https://RyanisyydsTT/bloomcraft-wiki)!
+- Feel free to fork and send PR @ [Github Repo](https://github.com/RyanisyydsTT/bloomcraft-wiki)!
