@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to BloomCraft Wiki!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is BloomCraft's official wiki. You should read this before asking for help in tickets. 
+By the way, remember to join our Discord! [Click ME](https://dsc.gg/bloomcraft)
 
-## Commands
+## How to start playing?
+- IP: ``bloom.wecraft.lol``
+- Version: ``Java 1.21.1``
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Contributing
+- Feel free to fork and send PR @ [Github Repo](https://RyanisyydsTT/bloomcraft-wiki)!
