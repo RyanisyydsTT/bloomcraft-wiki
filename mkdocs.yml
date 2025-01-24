@@ -1,0 +1,6 @@
+site_name: BloomCraft Wiki
+site_url: https://wiki.wecraft.lol
+theme:
+  name: material
+  font:
+    code: Roboto Mono
