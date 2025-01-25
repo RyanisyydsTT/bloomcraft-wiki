@@ -4,3 +4,5 @@ theme:
   logo: assets/logo.png
   favicon: assets/logo.png
   name: material
+  scheme:
+    primary: black
