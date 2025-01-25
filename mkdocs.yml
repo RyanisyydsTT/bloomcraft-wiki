@@ -1,7 +1,6 @@
 site_name: BloomCraft Wiki
 site_url: https://wiki.wecraft.lol
 theme:
+  logo: assets/logo.png
+  favicon: assets/logo.png
   name: material
-  font:
-    text: Roboto
-    code: Roboto Mono
